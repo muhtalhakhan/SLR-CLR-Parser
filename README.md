@@ -1,4 +1,4 @@
-# Canonical LR Parser 
+#SLR - CLR PARSER
 
   This project generates a CLR table from the given grammar, and attempts to parse an input string using the resultant table.
   This was created for the assignment of Compiler Constrution. 
